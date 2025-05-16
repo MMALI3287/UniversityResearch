@@ -4,6 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)](https://tensorflow.org)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.0+-green.svg)](https://opencv.org)
+
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-yellow.svg)](https://scikit-learn.org)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0+-lightblue.svg)](https://pandas.pydata.org)
 [![Keras](https://img.shields.io/badge/Keras-2.0+-darkred.svg)](https://keras.io)
@@ -17,8 +18,6 @@
 [![Weather Analysis](https://img.shields.io/badge/Research-Weather_Analysis-skyblue.svg)](PROJECT_PORTFOLIO.md#weather-prediction)
 
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org)
-[![GPU Accelerated](https://img.shields.io/badge/GPU-Accelerated-green.svg)](PROJECT_PORTFOLIO.md#technical-details)
-[![Documentation](https://img.shields.io/badge/Documentation-Comprehensive-yellow.svg)](PROJECT_PORTFOLIO.md)
 [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
 ## 🎯 Research Focus Areas
